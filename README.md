@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This project is deployed on Netlify[https://6669bcaf40436e4605cdd616--eat-and-splitbills.netlify.app/]
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
